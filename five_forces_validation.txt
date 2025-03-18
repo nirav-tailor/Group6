@@ -1,0 +1,34 @@
+
+PS C:\Users\tribu> PowerShell.exe -command .\Desktop\five-forces-lab-main\validate_5f.ps1 .\Desktop\five-forces-lab-main\five_forces.yml
+field        value
+-----        -----------------------------
+group        Group06
+members      Nirav Kamleshbhai Tailor, Manuel Garrigos Bueno
+topic        A web-based "This or That" game where users vote for their favorite dog image between two options.  The system records votes, fetches new images after each selection, and maintains a leaderboard of the most popular images.  Built with Vue.js, Node.js, and MongoDB, it provides an engaging and seamless experience.
+
+-----        -----------------------------
+
+*** customer_power ***
+
+High. Users have numerous choices for entertainment and can easily switch to other platforms  if they find the experience unengaging. To retain users, continuous updates, interactive  features, and user-friendly design must be prioritized.
+
+*** substitute_threat ***
+
+High. Many entertainment apps, social media polls, and meme-sharing platforms offer  alternative ways for users to engage in similar voting-based experiences. A key differentiator  would be incorporating gamification elements, rewards, and exclusive content.
+
+*** new_entrant_threat ***
+
+High. Developing a similar game is relatively easy with existing technologies and  open-source libraries. However, strong branding, community engagement, and unique features  like AI-generated images or rewards for frequent users can serve as entry barriers.
+
+*** competitor_rivalry ***
+
+Moderate. There are many voting-based games and interactive apps, but adding fun features  and a clean design can help stand out. Unique elements such as real-time leaderboards,  customizable themes, and social media integration can increase engagement and retention.
+
+*** supplier_power ***
+
+Low to moderate. The primary dependencies are cloud storage providers, AI-based image  processing (if used), and APIs for fetching dog images. The availability of multiple providers  ensures flexibility, but pricing or service disruptions from key suppliers could pose a risk.
+
+*** competitive_strategy ***
+
+Differentiation and user engagement are key. Enhancing the user experience through seamless UI,  gamification, and social media integration will help the game stand out. Developing a loyal  community through engagement strategies, exclusive content, and periodic updates can mitigate  threats from competitors and substitutes.
+Additionally, partnerships with pet-related brands or influencers could expand visibility and  attract a dedicated user base.
